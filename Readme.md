@@ -4,14 +4,14 @@ Este repositório contém um teste automatizado desenvolvido em **Robot Framewor
 
 ---
 
-## 🔧 **Ferramentas Utilizadas**
+ **Ferramentas Utilizadas**
 - **Robot Framework**: Framework para automação de testes.
 - **Browser Library**: Biblioteca para interação com navegadores.
 - **Python**: Linguagem base para o Robot Framework.
 
 ---
 
-## 🎯 **Escopo do Teste**
+ **Escopo do Teste**
 O teste automatizado simula o processo de cadastro de um Dog Walker na página de cadastro do site. Ele cobre as seguintes etapas:
 
 1. Acessar a página de cadastro.
@@ -28,12 +28,12 @@ O teste automatizado simula o processo de cadastro de um Dog Walker na página d
 
 ---
 
-## ✍️ **Arquivos Principais**
+ **Arquivos Principais**
 - **`signup.robot`**: Arquivo principal contendo os casos de teste e palavras-chave customizadas para realizar o cadastro automatizado.
 
 ---
 
-## ⚡ **Como Executar o Teste**
+ **Como Executar o Teste**
 
 1. **Instale as dependências necessárias**:
    - Certifique-se de ter o Python instalado.
